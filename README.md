@@ -21,4 +21,3 @@ Designed and developed a responsive calculator web application using HTML, CSS, 
 
 -> Functionality: JavaScript (DOM Manipulation, Event Handling, eval() for calculations)
 
-
